@@ -47,8 +47,6 @@ use Native5\Identity\SecurityUtils;
  */
 class homeController extends DefaultController
 {
-
-
     /**
      * _default 
      * 
